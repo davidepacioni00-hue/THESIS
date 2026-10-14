@@ -1,0 +1,80 @@
+26/10/05 16:30:05 [INFO    ] (_init_num_threads): NumExpr defaulting to 4 threads.
+26/10/05 16:30:09 [INFO    ] (load_config_excel): Using config file (v20.03) ../ConfigFiles/Config_BE_Boundary_Sector.xlsx to build the simulation environment
+26/10/05 16:30:09 [INFO    ] (load_config_excel): Using C:\Users\HP\Documents\Dispa-SET_UNLEASH\Simulations/simulation_(2)_BE-NUC as simulation folder
+26/10/05 16:30:09 [INFO    ] (load_config_excel): Description of the simulation: Configuration file for testing purposes.
+26/10/05 16:30:09 [INFO    ] (build_simulation): Simulation without mid therm scheduling
+26/10/05 16:30:09 [INFO    ] (build_single_run): Building simulation environment
+26/10/05 16:30:09 [WARNING ] (load_time_series): File C:\Users\HP\Documents\Dispa-SET_UNLEASH\Database/Load_RealTime/BE/1h/2023.csv: there is one data point missing in the time series. It will be filled with the nearest data
+26/10/05 16:30:09 [WARNING ] (build_single_run): No Inertia Limit will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No Gain Limit will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No FFR Gain Limit will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No historical boundary sector flows will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No boundary sector NTC values will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No geo spatial data available
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table LoadShedding. Using default value 0.05
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table CostLoadShedding. Using default value 1500.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table ShareOfFlexibleDemand. Using default value 0.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2D. Using default value None
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2U. Using default value None
+26/10/05 16:30:09 [WARNING ] (build_single_run): No FFR requirement will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No Primary Reserve requirement will be considered (no valid file provided)
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table CostCurtailment. Using default value 20.0
+26/10/05 16:30:09 [WARNING ] (build_single_run): STOHours is not defined in the boundary sector data table
+26/10/05 16:30:09 [INFO    ] (UnitBasedTable): No data file specified for the table Outages. Using default value None
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Norther Offshore WP in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Rentel Offshore WP in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Seastar in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Mermaid in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Northwester 2 in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Northwind in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Thorntonbank - C-Power - Area SW in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Belwind Phase 1 in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Nobelwind Offshore Windpark in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Thorntonbank - C-Power - Area NE in table RenewablesAF. The generic information for ('BE', 'WTOF') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Kristal _ Solar _ Park in table RenewablesAF. The generic information for ('BE', 'PHOT') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Dispa-SET_WAT_HROR_BE in table RenewablesAF. The generic information for ('BE', 'HROR') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Dispa-SET_WIN_WTON_BE in table RenewablesAF. The generic information for ('BE', 'WTON') has been used
+26/10/05 16:30:09 [WARNING ] (UnitBasedTable): No specific information was found for unit Dispa-SET_SUN_PHOT_BE in table RenewablesAF. The generic information for ('BE', 'PHOT') has been used
+26/10/05 16:30:09 [INFO    ] (UnitBasedTable): No data file specified for the table ReservoirLevels. Using default value 0
+26/10/05 16:30:09 [WARNING ] (build_single_run): No Storage Alert Levels will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No Storage Flood Control will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No historical Reservoir Scaled Inflows will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No historical outflows will be considered (no valid file provided)
+26/10/05 16:30:09 [INFO    ] (UnitBasedTable): No data file specified for the table CostOfSpillage. Using default value 401.0
+26/10/05 16:30:09 [WARNING ] (build_single_run): No SectorXReservoirLevels will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No SectorXAlertLevel will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No SectorXFloodControl will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No maximum spillage capacity provided.
+26/10/05 16:30:09 [WARNING ] (build_single_run): No CostXSpillage will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No SectorXFlexibleDemand will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (build_single_run): No SectorXFlexibleSupply will be considered (no valid file provided)
+26/10/05 16:30:09 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone BE. Using the standard formula
+26/10/05 16:30:09 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone BE. Using the standard formula
+26/10/05 16:30:09 [WARNING ] (check_FFRLimit): No FFR Limit requirement data has been found
+26/10/05 16:30:09 [WARNING ] (check_PrimaryReserveLimit): No Primary Reserve Limit requirement data has been found
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfNuclear. Using default value 4.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfBlackCoal. Using default value 18.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfGas. Using default value 44.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfFuelOil. Using default value 61.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfBiomass. Using default value 33.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfCO2. Using default value 88.55
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfLignite. Using default value 15.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfPeat. Using default value 33.0
+26/10/05 16:30:09 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfAmmonia. Using default value 76.0
+26/10/05 16:30:10 [INFO    ] (clustering): Clustered 37 original units into 25 new units
+26/10/05 16:30:10 [WARNING ] (build_single_run): TimeUpMinimum in the power plant data has been rounded to the nearest integer value
+26/10/05 16:30:10 [WARNING ] (build_single_run): TimeDownMinimum in the power plant data has been rounded to the nearest integer value
+26/10/05 16:30:10 [INFO    ] (build_single_run): Using generic reserve calculation for zone BE
+26/10/05 16:30:10 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [0, 2, 24] - BE - HPHS - WAT. Using the provided default initial and final values
+26/10/05 16:30:10 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant S_1. Using the provided default initial and final values
+26/10/05 16:30:10 [INFO    ] (build_single_run): Unit [36] - VPP_BE is a p2x unit, setting Power2XConversionMultiplier
+26/10/05 16:30:10 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [0, 2, 24] - BE - HPHS - WAT. A null variable cost has been assigned
+26/10/05 16:30:11 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [32] - Dispa-SET_WAT_HROR_BE. A null variable cost has been assigned
+26/10/05 16:30:11 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [27, 35] - BE - PHOT - SUN. A null variable cost has been assigned
+26/10/05 16:30:11 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [12, 14, 16, 17, 18, 19, 20, 21, 22, 23] - BE - WTOF - WIN. A null variable cost has been assigned
+26/10/05 16:30:11 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [34] - Dispa-SET_WIN_WTON_BE. A null variable cost has been assigned
+26/10/05 16:30:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [31] - Dispa-SET_OTH_STUR_BE. A null variable cost has been assigned
+26/10/05 16:30:16 [WARNING ] (build_single_run): No fuel price value has been found for fuel WST in unit [33] - Dispa-SET_WST_STUR_BE. A null variable cost has been assigned
+26/10/05 16:30:23 [INFO    ] (write_variables): Data Successfully written to Inputs.gdx
+26/10/05 16:30:23 [INFO    ] (build_single_run): Processing C:\Users\HP\Documents\Dispa-SET-latest\dispaset\preprocessing\..\GAMS\UCM.gms into C:\Users\HP\Documents\Dispa-SET_UNLEASH\Simulations/simulation_(2)_BE-NUC\UCM_h.gms
+26/10/05 16:30:23 [INFO    ] (build_single_run): Build finished
